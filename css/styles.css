@@ -1,0 +1,98 @@
+/* TAG Selectors */
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+/************** Title Section ******************/
+
+#title-section {
+    background-color: #ff4c68;
+    color: white;
+    padding: 0 0.75rem;
+}
+
+    /****** Navigation Bar ******/
+
+.navbar {
+    padding: 3.5% 10% 3.5% 10%;
+}
+
+/* .navbar-toggler{
+    color: white;
+} */
+
+.navbar-brand{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.25rem;
+}
+
+.navbar-nav {
+    list-style-type: none;
+}
+
+.nav-link{
+    color: white;
+}
+
+    /***** Title ******/
+
+.title-content{
+    padding: 5% 10%;
+}
+
+
+.btn-padding{
+    margin: 10% 5% 5% 0;
+}
+
+.btn-dark:hover{
+    background-color: transparent;
+}
+
+.main-image{
+    text-align: center;
+    margin: 5% 20% 10% 30%;
+    padding: 0;
+    transform: rotate(35deg);
+    max-width: 40%; 
+}
+
+
+
+
+
+
+
+/* Features Section */
+
+.feature-box {
+    text-align: center;
+    padding: 3% 5%;
+}
+
+.fs-icon {
+    color: #ef8172;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.fs-icon:hover {
+    color: #ff4c68;
+}
+
+#features {
+    padding: 7% 15%;
+}
